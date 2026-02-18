@@ -2,7 +2,7 @@
 public class Program1_Block {
     public static void main(String[] args) {
         // Student number: Replace with your actual student number
-        int studentNumber = 190423; // Example student number
+        int studentNumber = 123456; // Example student number
 
         // Start of block
         {
@@ -29,3 +29,4 @@ public class Program1_Block {
     }
 
 }
+
