@@ -6,7 +6,7 @@ public class Program5_DoWhileLoop {
         Scanner scanner = new Scanner(System.in);
 
         // Storing student number and password
-        int correctStudentNumber = 123456; // Replace with your student number
+        int correctStudentNumber = 123456;
         String correctPassword = "password123";
 
         int enteredStudentNumber;
@@ -32,4 +32,5 @@ public class Program5_DoWhileLoop {
 
         scanner.close();
     }
+
 }
