@@ -2,7 +2,7 @@
 public class Program1_Block {
     public static void main(String[] args) {
         // Student number: Replace with your actual student number
-        int studentNumber = 123456; // Example student number
+        int studentNumber = 190423; // Example student number
 
         // Start of block
         {
@@ -27,4 +27,5 @@ public class Program1_Block {
         System.out.println("\nOutside the block: Variables are not accessible here");
         System.out.println("If we try to access num1 or num2 here, we get a compilation error!");
     }
+
 }
